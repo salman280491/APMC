@@ -1,0 +1,9 @@
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\bin\Debug\netcoreapp2.0\MarketPlaceEntity.deps.json
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\bin\Debug\netcoreapp2.0\MarketPlaceEntity.dll
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\bin\Debug\netcoreapp2.0\MarketPlaceEntity.pdb
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\obj\Debug\netcoreapp2.0\MarketPlaceEntity.csprojResolveAssemblyReference.cache
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\obj\Debug\netcoreapp2.0\MarketPlaceEntity.csproj.CoreCompileInputs.cache
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\obj\Debug\netcoreapp2.0\MarketPlaceEntity.AssemblyInfoInputs.cache
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\obj\Debug\netcoreapp2.0\MarketPlaceEntity.AssemblyInfo.cs
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\obj\Debug\netcoreapp2.0\MarketPlaceEntity.dll
+D:\DATA\MarketPlaces\Project\MarketPlace\MarketPlaceEntity\obj\Debug\netcoreapp2.0\MarketPlaceEntity.pdb
